@@ -13,7 +13,7 @@ html,body {
 
 body {
   background: url(/imagens/redes.jpg);
-  background-size: 100vmax;
+  background-size: cover;
   background-attachment: fixed;
 }
 
