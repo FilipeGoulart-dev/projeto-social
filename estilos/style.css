@@ -12,8 +12,8 @@ html, body {
 }
 
 body {
-    background: url(/imagens/fundo-madeira.jpg)no-repeat top center;
-    background-size: cover;
+    background: url(/imagens/fundo.jpg);
+    background-size: 100%;
     background-attachment: fixed;
 }
 
