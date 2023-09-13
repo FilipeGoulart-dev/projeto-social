@@ -17,13 +17,14 @@ img {
 
 a {
   display: block;
-  background-color: darkred;
+  background-color: darkblue;
   padding: 20px;
   text-align: center;
   font-weight: bolder;
   text-decoration: none;
+  color: white;
 }
 
 a:hover {
-  background-color: red;
+  background-color: darkred;
 }
