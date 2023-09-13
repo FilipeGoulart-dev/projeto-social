@@ -12,7 +12,7 @@ html,body {
 }
 
 body {
-  background: url(/imagens/redes.jpg);
+  background: url(/image/redes.jpg);
   background-size: cover;
   background-attachment: fixed;
 }
@@ -22,7 +22,7 @@ main {
 }
 
 section#telefone {
-  background: url(/imagens/celular.png);
+  background: url(/image/celular.png);
   position: absolute;
   top: 50%;
   left: 50%;
