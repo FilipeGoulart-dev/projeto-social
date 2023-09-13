@@ -12,7 +12,7 @@ html,body {
 }
 
 body {
-  background: url(/image/fundo-rede.JPG);
+  background: url(../image/fundo-rede.jpg);
   background-size: cover;
   background-attachment: fixed;
 }
@@ -22,7 +22,7 @@ main {
 }
 
 section#telefone {
-  background: url(/image/fundo-celular.PNG);
+  background: url(../image/fundo-celular.png);
   position: absolute;
   top: 50%;
   left: 50%;
